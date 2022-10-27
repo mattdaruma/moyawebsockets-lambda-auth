@@ -1,0 +1,15 @@
+{
+    "name": "moyawebsocketlambdaauth",
+    "version": "1.0.0",
+    "description": "Verify Cognito tokens and inject user data.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "aws-jwt-verify": "^3.1.0"
+    }
+  }
+  
