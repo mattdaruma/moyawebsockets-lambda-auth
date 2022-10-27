@@ -1,0 +1,1 @@
+Use Cognito to verify query access tokens passed on websocket connections.
